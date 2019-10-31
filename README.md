@@ -1,4 +1,7 @@
-# This is the public repo for the InSite interactive transcript project.
+# This is the public repo for the InSite interactive transcript project – Patch fork.
+
+The patch fork was opened on October 31, 2019, and six open issues were transferred from RLH-Site-Code. 
+
 
 This repository contains a WordPress theme that contains the template files for the project, library code to make the back-end functionality work, and API endpoint setup.
 
