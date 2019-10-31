@@ -1,4 +1,4 @@
-# This is the public repo for the InSite interactive transcript project – Patch fork.
+# This is the public repo for the InSite interactive transcript project – Patch Fork.
 
 The Patch fork was opened on October 31, 2019, and six open issues were transferred from RLH-Site-Code. 
 
