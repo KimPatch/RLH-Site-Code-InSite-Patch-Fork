@@ -2,8 +2,12 @@
 
 The Patch fork was opened on October 31, 2019, and six open issues were transferred from RLH-Site-Code. 
 
-
 This repository contains a WordPress theme that contains the template files for the project, library code to make the back-end functionality work, and API endpoint setup.
+
+This is meant to be used with Able Player and a pair of Able Playeradd-ons: 
+https://ableplayer.github.io/ableplayer/
+https://github.com/DukeLivingHistory/able-timestamps
+https://github.com/DukeLivingHistory/able-search
 
 ## Getting Started
 
